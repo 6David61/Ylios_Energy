@@ -1,6 +1,6 @@
 :root {
   --c-primary: #72D44A;
-  --c-secondary: #015b8a;
+  --c-secondary: #389C04;
   --c-white: #ffffff;
 }
 
@@ -96,7 +96,7 @@ header.header-wrapper .header-inner .main-navigation ul.menu > li .angle-up::bef
   content: "";
   border-width: 0 15px 18px 15px;
   border-style: solid;
-  border-color: #00517B transparent;
+  border-color: #71d44a5b transparent;
   display: block;
   width: 0;
   margin-left: auto;
@@ -238,8 +238,8 @@ header.header-wrapper .header-inner .main-navigation .sub-menu {
   -webkit-transition: all 0.32s ease-in-out;
   transition: all 0.32s ease-in-out;
   visibility: var(--hover-visible, hidden);
-  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12), 0 20px 10px -10px inset #00517B;
-          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12), 0 20px 10px -10px inset #00517B;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12), 0 20px 10px -10px inset #71d44a5b;
+          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12), 0 20px 10px -10px inset #71d44a5b;
 }
 @media screen and (min-width: 992px) {
   header.header-wrapper .header-inner .main-navigation .sub-menu {
