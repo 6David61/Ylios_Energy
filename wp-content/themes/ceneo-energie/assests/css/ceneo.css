@@ -1,0 +1,4 @@
+@import 'megamenu.css';
+.consumption-anchor .box-type-wrapper .panel-grid-cell{
+	cursor: pointer;
+}
